@@ -7,7 +7,7 @@ Starts scanning by itself. Dark dotted RSSI and a line that fills as you close i
 
 ## Demo
 
-<video src="demo/demo.mp4" width="368" controls playsinline></video>
+https://github.com/user-attachments/assets/bfedd916-e6cb-4595-a5fd-d63022c8e7a6
 
 To hunt by name, edit `main/target.h` and reflash:
 
