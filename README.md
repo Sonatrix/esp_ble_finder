@@ -1,4 +1,4 @@
-# BLE Finder
+# BLE Finder By Sonatrix
 
 [findphone](https://github.com/ben-z/findphone) for the
 [Waveshare ESP32-S3-Touch-AMOLED-1.8](https://www.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-1.8).
